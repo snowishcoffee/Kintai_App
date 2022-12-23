@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">勤怠管理システム</string>
+    <!-- Strings related to login -->
+    <string name="prompt_login_id">ログインID</string>
+    <string name="prompt_password">パスワード</string>
+    <string name="action_sign_in">ログイン</string>
+    <string name="action_sign_in_short">ログイン</string>
+    <string name="main">"メインページ"</string>
+</resources>
